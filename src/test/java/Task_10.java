@@ -1,20 +1,19 @@
 //Задача 11. преобразовать числовой массив в булево
 public class Task_10 {
     public static void main(String[] args) {
-        int Value = 1;
+        int value = 1;
 
         boolean boolValue;
 
-        if (Value >= 1) {
+        if (value >= 1) {
             boolValue = true;
-        }
-        else {
+        } else {
             boolValue = false;
         }
 
 
-        System.out.println(Value + " after converting into boolean = " + boolValue);
+        System.out.println(value + " after converting into boolean = " + boolValue);
     }
-    }
+}
 
 
