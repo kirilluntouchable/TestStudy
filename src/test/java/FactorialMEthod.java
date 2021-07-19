@@ -1,6 +1,6 @@
 public class FactorialMEthod {
     public static void main(String[] args) {
-        counter(3);
+        counter(4);
     }
     private static void counter(int n) {
         if (n == 0)
